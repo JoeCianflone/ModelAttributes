@@ -1,11 +1,11 @@
 {
-    "name": "joecianflone/model-attributes",
+    "name": "jtc/model-attributes",
     "description": "A simple package to make the DX of working with Laravel Eloquent models better",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "JoeCianflone\\ModelAttributes\\": "src/"
+            "JTC\\ModelAttributes\\": "src/"
         }
     },
     "authors": [

@@ -1,9 +1,9 @@
 <?php declare(strict_types=1);
 
-namespace JoeCianflone\ModelAttributes\Concerns;
+namespace JTC\ModelAttributes\Concerns;
 
 use Crell\AttributeUtils\Analyzer;
-use JoeCianflone\ModelAttributes\ModelAttributes;
+use JC\ModelAttributes\ModelAttributes;
 
 trait HasModelAttributes
 {

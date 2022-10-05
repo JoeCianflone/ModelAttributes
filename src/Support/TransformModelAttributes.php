@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace JoeCianflone\ModelAttributes\Support;
+namespace JTC\ModelAttributes\Support;
 
 class TransformModelAttributes
 {
