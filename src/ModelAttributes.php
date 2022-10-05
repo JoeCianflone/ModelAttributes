@@ -1,8 +1,8 @@
 <?php declare(strict_types=1);
 
-namespace JoeCianflone\ModelAttributes;
+namespace JTC\ModelAttributes;
 
-use JoeCianflone\ModelAttributes\Support\TransformModelAttributes;
+use JC\ModelAttributes\Support\TransformModelAttributes;
 
 #[\Attribute(\Attribute::TARGET_CLASS)]
 class ModelAttributes
